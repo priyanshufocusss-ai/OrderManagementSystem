@@ -6,7 +6,7 @@ public class OrderManagement {
 
     static final String URL = "jdbc:mysql://localhost:3306/ecommerce_db";
     static final String USER = "root";
-    static final String PASSWORD = "YOUR_PASSWORD";
+    static final String PASSWORD = "YOUR_MySQL_PASSWORD";
 
     static Scanner sc = new Scanner(System.in);
 
